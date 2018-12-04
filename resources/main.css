@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    height: 100%;
+    position: relative;
+    background-color: #161618;
+}
+
+.content {
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 15%;
+}
+
+.name {
+    color: #70B902;
+}
+
+.current-header {
+    color: #ffffff;
+    font-size: 75px;
+}
+
+.current-role {
+    margin-top: 70px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.current-description {
+    width: 65%;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+.current-company {
+    color: #70B902;
+}
+
+.current-social {
+    font-size: 25px;
+    color: #94D82D;
+}
+
+.current-social a {
+    margin-left: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #94D82D;
+}
+
+.social-item {
+    padding-top: 5px;
+    padding-bottom: 5px; 
+}
