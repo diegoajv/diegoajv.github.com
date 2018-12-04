@@ -2,12 +2,13 @@ body {
     margin: 0px;
     padding: 0px;
     font-family: 'Roboto', sans-serif;
+    background-color: #161618;
+    min-width: 500px;
 }
 
 .main {
     height: 100%;
     position: relative;
-    background-color: #161618;
 }
 
 .content {
